@@ -56,10 +56,5 @@ Available Options
 Nikita
 
 ⭐ Support
-
 If you like this project, consider giving it a ⭐ on GitHub!
 
-
-1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/todo-app.git
-cd todo-app
